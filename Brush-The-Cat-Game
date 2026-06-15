@@ -1,0 +1,107 @@
+```html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Brush The Cat Game — Terms & Conditions</title>
+  <meta name="description" content="Terms & Conditions for the Brush The Cat Game app." />
+  <style>
+    body { font-family: ui-sans-serif, system-ui, Segoe UI, Roboto, Helvetica, Arial; margin: 0; background: #0f1115; color: #e8eaf6; }
+    .wrap { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; }
+    h1 { margin: 0 0 8px; font-size: clamp(28px, 4vw, 40px); }
+    .muted { color: #9aa3b2; }
+    h2 { margin-top: 28px; font-size: 22px; }
+    a { color: #9bb0ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .card { background: #151823; border: 1px solid #23273a; border-radius: 16px; padding: 16px 20px; margin-top: 16px; }
+    ul { padding-left: 18px; }
+    code { background: rgba(255,255,255,.08); padding: 2px 6px; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Brush The Cat Game — Terms & Conditions</h1>
+    <p class="muted">Effective date: June 15, 2026</p>
+
+    <h2>1. Agreement to Terms</h2>
+    <p>
+      By downloading, installing, or using Brush The Cat Game (the “App”),
+      you agree to these Terms & Conditions (“Terms”). If you do not agree,
+      please do not use the App.
+    </p>
+
+    <h2>2. What the App Does</h2>
+    <p>
+      Brush The Cat Game is a casual entertainment game where players brush
+      adorable cats, earn rewards, and enjoy relaxing gameplay. The App is
+      provided solely for entertainment purposes.
+    </p>
+
+    <h2>3. Ads & Data</h2>
+    <div class="card">
+      <ul>
+        <li><strong>Advertising:</strong> The App displays a top AdMob banner and may occasionally show interstitial advertisements.</li>
+        <li><strong>No personal data collection by us:</strong> We do not collect, store, or transmit personal data.</li>
+        <li><strong>Third-party ad providers:</strong> Google AdMob may process limited information under its own privacy policies.</li>
+        <li><strong>Ad personalization:</strong> You may manage advertising preferences through your device or Google account settings where available.</li>
+      </ul>
+    </div>
+
+    <h2>4. Permissions</h2>
+    <ul>
+      <li>
+        <strong>Internet Access:</strong> Used to load advertisements and support app functionality.
+      </li>
+      <li>
+        <strong>Other permissions:</strong> Any permissions requested by the platform are used solely for the operation of the App.
+      </li>
+    </ul>
+
+    <h2>5. Acceptable Use</h2>
+    <ul>
+      <li>Minimum age 13 (or under parental supervision, subject to local law).</li>
+      <li>No reverse-engineering, cheating tools, automated abuse, or illegal use.</li>
+      <li>You are responsible for your device, backups, and internet connection.</li>
+    </ul>
+
+    <h2>6. Intellectual Property</h2>
+    <p>
+      All content, graphics, artwork, sounds, and trademarks associated with
+      Brush The Cat Game are owned by or licensed to the developer. You are
+      granted a personal, non-transferable license to use the App.
+    </p>
+
+    <h2>7. Disclaimer</h2>
+    <p>
+      The App is provided "as is" without warranties of any kind. We do not
+      guarantee uninterrupted operation or that the App will always be free
+      from bugs or errors.
+    </p>
+
+    <h2>8. Changes</h2>
+    <p>
+      We may update these Terms from time to time. Updated versions will be
+      reflected on this page. Continued use of the App after changes means
+      that you accept the revised Terms.
+    </p>
+
+    <h2>9. Governing Law</h2>
+    <p>
+      These Terms are governed by the laws of Spain. Courts of Madrid, Spain,
+      have exclusive jurisdiction.
+    </p>
+
+    <h2>10. Contact</h2>
+    <p>
+      Email:
+      <a href="mailto:shish.hamish@gmail.com">shish.hamish@gmail.com</a>
+    </p>
+
+    <p class="muted">
+      <a href="/">← Back to Home</a>
+    </p>
+  </div>
+</body>
+</html>
+```
